@@ -1,0 +1,20 @@
+# Root requirements for Google 5-Day AI Agents Course
+
+# Core AI/ML Libraries
+google-generativeai>=0.3.0
+google-cloud-aiplatform>=1.38.0
+
+# HTTP and API Libraries
+requests>=2.31.0
+
+# Data Processing (for advanced examples)
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Note: Each day has its own requirements.txt with day-specific dependencies
+# Install day-specific requirements as needed:
+# pip install -r Day1_Introduction_to_AI_Agents/requirements.txt
+
